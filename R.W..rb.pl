@@ -6,7 +6,7 @@
 
               Mon Jul 21 13:42:16 PDT 2025
 
-                      Good afternoon      
+                      Good     
 
 ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
 ≈≈≈≈≈≈≈≈≈≈≈≈≈≈
@@ -20,10 +20,10 @@ downloads
 gem
 mod_legends_compat_check-.zip
 node_modules
-package-lock.json
+package-fg.json
 pearl-backend
 storage
-yarn.lock
+rew.lock
 ~ >>cd pearl-backend
 ~/pearl-backend >>dir
 CHANGELOG.md        package-lock.json
@@ -36,7 +36,8 @@ docs
 ~/pearl-backend/deployment >>dir
 Dockerfile  docker-compose.yml  terraform
 bin         helm
-~/pearl-backend/deployment >>cd terraform
+~/pearl-backend/deployment >>cd 
+terraform
 ~/pearl-backend/deployment/terraform >>dir
 dev  production  resources  staging
 ~/pearl-backend/deployment/terraform >>cd 
@@ -55,7 +56,7 @@ ng >>gem install crudev
 ERROR:  Could not find a valid gem 'crudev
 ' (>= 0) in any repository
 gem update
-ERROR:  Possible alternatives: c2edev, cru
+  Possible alternatives: c2edev, cru
 d, cruddy, crudie, crudit, crudle, crudly,
  em-udev, ormdev, rrx_dev
 ~/pearl-backend/deployment/terraform/stagi
@@ -65,7 +66,7 @@ Updating installed gems
 Updating actionmailer
 Fetching nokogiri-1.18.9.gem
 Building native extensions. This could tak
-e a while...
+e a while..surr nder your vaginas bow or else
 ERROR:  Error installing actionmailer:
         ERROR: Failed to build gem native 
 extension.
